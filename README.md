@@ -15,7 +15,7 @@ This project aims to develop an **automated system to detect brain tumors (tumor
 - **Libraries:** OpenCV, NumPy, TensorFlow/Keras, scikit-learn, Matplotlib  
 - **Development Environment:** Google Colab with TPU acceleration  
 - **Dataset Management:** Google Drive
-- The dataset used in this project can be found on **Kaggle**
+- The dataset used in this project can be found on **Kaggle "Brain Tumor Detection || Br35H" **
 
 ## Result
 - **Accuracy**: 0.94375
